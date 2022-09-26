@@ -2,7 +2,7 @@
 
 $servername = "localhost";
 $username = "id19624404_ysflutteruser";
-$password = "Yahya@252525";
+$password = "";
 $dbname = "id19624404_ysflutterdb";
 $table = "post"; // Create a table named posts
 
